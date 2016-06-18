@@ -1,13 +1,16 @@
-body { margin: 0px; }
+body {
+    margin: 0px;
+    background: #333333;
+}
 
-h1, p { color: #99FF00; }
+h1, p { color: darkorange; }
 
 #side_square {
     float: left;
     margin: 0px 0px 0px 100px;
     width: 100px;
     height: 100vh;
-    background: #99FF00;
+    background: darkorange;
 }
 
 #content {
